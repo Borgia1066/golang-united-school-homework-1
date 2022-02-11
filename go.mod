@@ -1,4 +1,4 @@
-module github.com/Borgia1066/golang-united-school-homework-1.git/go-modules
+module main
 
 go 1.17
 
